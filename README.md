@@ -7,7 +7,7 @@
     <li>I am a Software Development student.</li>
     <li>In my free time, I enjoy programming, learning about development and building new projects.</li>
 </ul>
-<h3>💻 Here is a list of some of the technologies I am most familiar with:</h3>
+<h3>💻 Here is a list of some of my technology skills</h3>
 <ul>
     <li>Python</li>
     <li>JavaScript</li>
