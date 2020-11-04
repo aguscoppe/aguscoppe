@@ -5,7 +5,7 @@
     <li>I am currently 23 years old.</li>
     <li>I live in Buenos Aires, Argentina.</li>
     <li>I am a Software Development student.</li>
-    <li>I spend as much time as I can learning about programming and development.</li>
+    <li>I deeply enjoy programming, learning about development and building new projects.</li>
 </ul>
 <h3>💻 Here is a list of some of the technolgies I am most familiar with:</h3>
 <ul>
