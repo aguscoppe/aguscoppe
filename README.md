@@ -9,12 +9,12 @@
 </ul>
 <h3>💻 Here is a list of some of my technology skills</h3>
 <ul>
+    <li>React</li>
     <li>Python</li>
     <li>JavaScript</li>
     <li>Java</li>
     <li>CSS</li>
     <li>HTML</li>
     <li>Node.JS</li>
-    <li>React</li>
     <li>Adobe Photoshop</li>
 </ul>
