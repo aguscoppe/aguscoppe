@@ -10,11 +10,13 @@
 <h3>💻 Here is a list of some of my technology skills</h3>
 <ul>
     <li>React</li>
-    <li>Python</li>
+    <li>Vue.JS</li>
+    <li>TypeScript</li>
+    <li>Node.JS</li>
+    <li>Express</li>
     <li>JavaScript</li>
     <li>Java</li>
     <li>CSS</li>
     <li>HTML</li>
-    <li>Node.JS</li>
-    <li>Adobe Photoshop</li>
+    <li>Python</li>
 </ul>
