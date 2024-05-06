@@ -3,7 +3,7 @@
 <ul>
     <li>My name is Agustina Coppe.</li>
     <li>I live in Buenos Aires, Argentina.</li>
-    <li>I am a Software Development student.</li>
+    <li>I have +3 years of experience in Software Development.</li>
     <li>In my free time, I enjoy programming, learning about development and building new projects.</li>
 </ul>
 <h3>💻 Here is a list of some of my technology skills</h3>
